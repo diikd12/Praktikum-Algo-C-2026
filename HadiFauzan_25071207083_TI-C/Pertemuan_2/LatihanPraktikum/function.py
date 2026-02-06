@@ -8,6 +8,9 @@ def sapa(name="hadi"):
 
 sapa()
 
+#ini namanya void function^^
+
+
 
 #function itu adalah sebuah blok kode yang dapat digunakan kembali
 #secara bahasa mudahnya function itu adalah sebuah prosedur
